@@ -2,7 +2,7 @@ import { createSlice } from "@reduxjs/toolkit";
 
 const initialState = [];
 const cartSlice = createSlice({
-  name: "cart", // reducer name hai store ke waha pr daige
+  name: "cart", // reducer name haif store ke waha pr daige
   initialState, // state hai
   reducers: {
     // this is reducer and its take object
